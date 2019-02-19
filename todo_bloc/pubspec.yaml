@@ -1,0 +1,23 @@
+name: todo_bloc
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: 0.9.0
+  flutter_bloc: ^0.6.2
+  cupertino_icons: ^0.1.2
+  equatable: 0.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
